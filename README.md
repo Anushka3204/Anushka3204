@@ -57,10 +57,7 @@
     <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="text-decoration: none;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
     </a>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-    </a>
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer" style="text-decoration: none;">
+      <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer" style="text-decoration: none;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
     </a>
     <a href="https://www.php.net" target="_blank" rel="noreferrer" style="text-decoration: none;">
@@ -81,9 +78,7 @@
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
     </a>
-    <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer" style="text-decoration: none;">
-        <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
-    </a>
+   
 </p>
 
 
