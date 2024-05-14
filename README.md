@@ -1,4 +1,4 @@
-<h1 align="left">Hi Everyone ! I'm Anushka Shahane</h1>
+<h1 align="left">Hi Everyone!👋🏻 I'm Anushka Shahane</h1>
 
 <h2 align="left">A passionate developer and an enthusiast UI/UX designer!</h2>
 <img align="right" src="Coding.png" alt="coding" style="position: absolute;  z-index: 1;">
@@ -92,18 +92,18 @@
     <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=anushka3204&show_icons=true&locale=en&layout=compact" alt="anushka3204" /></p>
 </div>
 
-<h3 align="left">Github Stats:</h3>
+<h3 align="left">📊 Github Stats:</h3>
 <div style="clear:both;">
     <p><img src="https://github-readme-stats.vercel.app/api?username=anushka3204&show_icons=true&locale=en" alt="anushka3204" /></p>
 </div>
 
 
-  <h3 align="left">Github Contributions:</h3>
+  <h3 align="left">🏆 Github Contributions:</h3>
 <div style="clear:both;">
     <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=anushka3204&" alt="anushka3204" /></p>
 </div>
 
-   <h3 align="left">Github Trophy:</h3>
+   <h3 align="left">🏆 Github Trophy:</h3>
 <div style="clear:both;">
     <p><img src="https://github-profile-trophy.vercel.app/?username=anushka3204&" alt="anushka3204" /></p>
 </div>
