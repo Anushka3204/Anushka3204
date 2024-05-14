@@ -1,4 +1,4 @@
-<h1 align="left">Hi Everyone! I'm Anushka Shahane</h1>
+<h1 align="left">Hi Everyone ! I'm Anushka Shahane</h1>
 <img align="right" src="Coding.png" alt="coding" style="position: absolute;  z-index: 1;">
 <h2 align="left">A passionate developer and an enthusiast UI/UX designer!</h2>
 
@@ -77,6 +77,14 @@
     </a>
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
         <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+    </a>
+
+       </a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+    </a>
+    <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer" style="text-decoration: none;">
+        <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
     </a>
     
 </p>
