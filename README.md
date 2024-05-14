@@ -1,4 +1,4 @@
-<h1 align="left">Hi Everyone!👋🏻 I'm Anushka Shahane</h1>
+<h1 align="left">Hi there!👋🏻 I'm Anushka Shahane</h1>
 
 <h2 align="left">A passionate developer and an enthusiast UI/UX designer!</h2>
 <img align="right" src="Coding.png" alt="coding" style="position: absolute;  z-index: 1;">
