@@ -116,11 +116,11 @@
         <a href="https://anushka3204.github.io/Eco-track1_app/" style="font-size: 32px; font-weight: bolder;">https://anushka3204.github.io/Eco-track1_app/</a>
     </p>
     <br/>
-    <p style="font-size: 32px; font-weight: bolder;">
+<!--     <p style="font-size: 32px; font-weight: bolder;">
         <span style="font-size: 32px; font-weight: bolder;">Motivational Message Generator (Using React Axios):</span> 
         <a href="https://risenshine13june24.web.app/" style="font-size: 28px; font-weight: bolder;">https://risenshine13june24.web.app/</a>
     </p>
-
+ -->
     
 </div>
 
